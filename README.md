@@ -25,7 +25,7 @@ The EMI is calculated using the standard formula:
 
 EMI = (P × R × (1+R)^N) / ((1+R)^N - 1)
 
-Where:  
+### Where:  
 - P = Principal Loan Amount  
 - R = Monthly Interest Rate (Annual Rate / 12 / 100)  
 - N = Number of Months  
