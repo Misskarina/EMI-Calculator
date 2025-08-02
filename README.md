@@ -1,4 +1,4 @@
-# EMI Calculator
+## EMI Calculator
 
 A simple web-based EMI (Equated Monthly Installment) Calculator built using HTML, CSS, and JavaScript.  
 This app helps you calculate monthly EMI payments based on loan amount, interest rate, and repayment months.
